@@ -8,3 +8,6 @@ https://en.wikipedia.org/wiki/Ackermann_function
      ld -o pr -m elf_i386 pr.o
 #### Run using following command:
     ./pr
+
+# Ackermann Function using python
+This is trivial but same functionality here.
