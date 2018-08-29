@@ -1,6 +1,6 @@
 # Ackermann Function Using X86
 
-#### ee below link for reference:
+#### See below link for reference:
 https://en.wikipedia.org/wiki/Ackermann_function
 
 #### Compile using the following Command:
