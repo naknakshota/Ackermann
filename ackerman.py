@@ -21,14 +21,3 @@ def f2(m : int, n: int):
 		return 2*n
 	else: 
 		return f2(m-1,f2(m,n-1))
-
-print(f1(1,1))
-print(f1(2,2))
-print(f1(3,3))
-print(f1(3,4))
-print(f1(4,3))
-print(f2(1,1))
-print(f2(2,2))
-print(f2(3,3))
-print(f2(3,4))
-print(f2(4,3))
